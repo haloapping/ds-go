@@ -69,6 +69,7 @@ func main() {
 	dll.InsertLast(5)
 	dll.InsertLast(6)
 	dll.InsertFirst(10)
+	dll.InsertLast(100)
 	dll.PrintFromFirst()
 	dll.PrintFromLast()
 }
